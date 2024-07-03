@@ -1,0 +1,14 @@
+[
+  {
+    "name": "QRPay User",
+    "url": "https://qrpay.appdevs.net/login"
+  },
+  {
+    "name": "QRPay Agent",
+    "url": "https://qrpay.appdevs.net/agent/login"
+  },
+  {
+    "name": "QRPay Merchant",
+    "url": "https://qrpay.appdevs.net/merchant/login"
+  }
+]
